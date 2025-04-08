@@ -1,0 +1,7 @@
+# maybe this script could be useful to your project
+a = 5
+b = 6
+
+c = a+b
+
+plot(a, b)
