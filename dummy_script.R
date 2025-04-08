@@ -16,3 +16,7 @@ data(flea)
 ggpairs(flea, columns = 2:4)
 ggpairs(flea, columns = 2:4, ggplot2::aes(colour = species))
 
+
+
+plot(flea[,1]~flea[,2])
+
